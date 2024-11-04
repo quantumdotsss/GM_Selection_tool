@@ -13,9 +13,8 @@ python -m venv gm_selection_env
 gm_selection_env\Scripts\activate
 
 2. Clone the git repo
-git clone https://github.com/yourusername/GM_Selection_tool.git
+git clone https://github.com/quantumdotsss/GM_Selection_tool.git
 cd GM_Selection_tool
-
 
 3. Install the required dependencies
 pip install -r requirements.txt
